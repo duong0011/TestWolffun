@@ -1,0 +1,7 @@
+ConfigKey,Value
+WorkerSpeed,3
+WorkerTaskDuration, 120
+StartGold,0
+WorkerCost,500
+UpgradeCost,500
+PlotCost,500

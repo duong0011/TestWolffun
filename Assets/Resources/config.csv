@@ -1,0 +1,5 @@
+Type,Name,SeedCost,GrowthTime,Yield,Lifespan,SellPrice,DecayTime
+Crop,Tomato,30,600,1,40,5,3600
+Crop,Blueberry,50,900,1,40,8,3600
+Crop,Strawberry,40,300,1,20,6,3600
+Animal,Cow,100,1800,1,100,15,3600

@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3756207889
+    locked: 0
+  - name: Item
+    uniqueID: 383232355
+    locked: 0
+  - name: ProgressBG
+    uniqueID: 1448276585
+    locked: 0
+  - name: ProgressFill
+    uniqueID: 3973066175
+    locked: 0
+  - name: Border
+    uniqueID: 1838591087
+    locked: 0
+  - name: Worker
+    uniqueID: 2810199183
+    locked: 0
+  - name: UI
+    uniqueID: 1890673929
+    locked: 0
+  m_RenderingLayers:
+  - Default
