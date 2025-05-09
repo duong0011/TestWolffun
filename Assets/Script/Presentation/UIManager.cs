@@ -47,7 +47,6 @@ public class UIManager : MonoBehaviour
     {
         _config = new GameConfig();
         _config.LoadFromCSV(Application.dataPath + "/Resources/config.csv");
-        Debug.Log(Application.dataPath + "/Resources/config.csv");
         _config.LoadGlobalConfigFromCSV(Application.dataPath + "/Resources/global_config.csv");
         _saveSystem = new SaveSystem(Application.persistentDataPath + "/save.json");
         _farmManager = new FarmManager(_config);
